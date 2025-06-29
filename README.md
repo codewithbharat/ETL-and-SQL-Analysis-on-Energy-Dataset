@@ -12,6 +12,9 @@ This project is a Jupyter Notebook that performs an **ETL (Extract, Transform, L
   - Per capita energy usage across regions.
 - **Visualization**: Generating insightful charts and graphs to highlight key trends and findings.
 
+## Chart Preview
+![Chart Preview](./chart%20preview.png)
+
 ## Installation
 Follow these steps to set up the project locally:
 
